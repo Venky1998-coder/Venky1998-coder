@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Venky1998-coder
-- 👀 I’m interested in ...Data_analyst
+- 👀 I’m...Data_analyst
 - 🌱 I’m currently learning ...SQL,Python and PowerBi
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...Email:venkateshshivarathri1862@gmail.com
+- 📫 How to reach me ...Email:venkatesh1415@yahoo.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
