@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Venky1998-coder
+- 👋 Hi, I’m @Venkatesh_Shivarathri
 - 👀 I’m...Data_analyst
 - 🌱 I’m currently learning ...SQL,Python and PowerBi
 - 💞️ I’m looking to collaborate on ...
